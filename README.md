@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ```markdown
 # Hi there, I'm Anthony Cameron 👋
 
